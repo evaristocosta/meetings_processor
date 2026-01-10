@@ -1,5 +1,8 @@
 # Meeting Transcription and Processing
 
+![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/lucascosta74)
+
 A comprehensive Python notebook for transcribing audio meetings with speaker identification and intelligent summarization.
 
 ## Features
@@ -193,3 +196,4 @@ This project uses the following key dependencies:
 - ollama (MIT License)
 
 Make sure to comply with HuggingFace model licenses for speaker diarization models.
+
