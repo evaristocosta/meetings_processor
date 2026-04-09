@@ -219,6 +219,7 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,video,text
 
 # Specifics
-meeting_report.md
-summary.md
-transcription.txt
+meeting_report*.md
+summary*.md
+transcription*.txt
+speaker_segments_backup*
